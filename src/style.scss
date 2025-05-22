@@ -953,3 +953,13 @@ canvas {
         transition: color 0.3s ease;
     }
 }
+
+.iframe-wrapper::-webkit-scrollbar {
+    display: none;
+}
+
+.iframe-wrapper {
+    overflow: auto; /* Allow scrolling */
+    -ms-overflow-style: none; /* IE & Edge */
+    scrollbar-width: none; /* Firefox */
+}

@@ -228,7 +228,7 @@ const App = () => {
                   />
 
                   <video
-                    src="/portafolio-gregg/assets/projects/artiom.mp4"
+                    src="/portafolio-gregg/assets/projects/artiom.mov"
                     autoPlay
                     loop
                     muted
@@ -258,7 +258,7 @@ const App = () => {
           {/* Image Buddy */}
           <SwiperSlide>
             <div className="swiper-slide-main">
-              <a href="http://imagebuddy.s3-website.eu-north-1.amazonaws.com/">
+              <a href="https://d3mmom5lrew750.cloudfront.net/">
                 <div className="mockup-wrapper">
                   <img
                     src="/portafolio-gregg/assets/projects/mockup.png"
@@ -266,7 +266,7 @@ const App = () => {
                     className="mockup-img"
                   />
                   <iframe
-                    src="http://imagebuddy.s3-website.eu-north-1.amazonaws.com/"
+                    src="https://d3mmom5lrew750.cloudfront.net/"
                     title="Image Buddy"
                     className="mockup-iframe"
                   ></iframe>
@@ -319,7 +319,7 @@ const App = () => {
           {/* Hotel Miranda Dashbaord */}
           <SwiperSlide>
             <div className="swiper-slide-main">
-              <a href="http://imagebuddydashboard.s3-website.eu-north-1.amazonaws.com">
+              <a href="https://d2z2habo6fctjo.cloudfront.net/">
                 <div className="mockup-wrapper">
                   <img
                     src="/portafolio-gregg/assets/projects/mockup.png"
@@ -327,7 +327,7 @@ const App = () => {
                     className="mockup-img"
                   />
                   <iframe
-                    src="http://imagebuddydashboard.s3-website.eu-north-1.amazonaws.com"
+                    src="https://d2z2habo6fctjo.cloudfront.net/"
                     title="Hotel Miranda"
                     className="mockup-iframe"
                   ></iframe>
