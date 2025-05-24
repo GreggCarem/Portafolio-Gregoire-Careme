@@ -335,7 +335,7 @@ const App = () => {
               </a>
               <div className="swiper-slide-content">
                 <h1 className="swiper-slide-content-tittle">
-                  Hotel Miranda Dashbaord
+                  Hotel Miranda Dashboard
                 </h1>
                 <h2 className="swiper-slide-content-text">
                   The Hotel Miranda Dashboard is a backend platform for hotel

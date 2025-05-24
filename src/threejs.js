@@ -34,7 +34,7 @@ export default function init3D() {
   const clock = new THREE.Clock();
 
   const loader = new GLTFLoader();
-  loader.load("/portafolio-gregg/assets/baymax.glb", (gltf) => {
+  loader.load("/Portafolio-Gregoire-Careme/assets/baymax.glb", (gltf) => {
     model = gltf.scene;
     model.scale.set(1, 1, 1);
     scene.add(model);
