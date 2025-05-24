@@ -86,25 +86,25 @@ const App = () => {
           <h4 className="about-me-right_jobs">Web Developer</h4>
           <img
             className="about-me-right_progress-bar"
-            src="./assets/progress-bar-3.png"
+            src="Portafolio-Gregoire-Careme/assets/progress-bar-3.png"
             alt="Progress Bar"
           />
           <h4 className="about-me-right_jobs">Website Optimization</h4>
           <img
             className="about-me-right_progress-bar"
-            src="./assets/progress-bar-2.png"
+            src="Portafolio-Gregoire-Careme/assets/progress-bar-2.png"
             alt="Progress Bar"
           />
           <h4 className="about-me-right_jobs">Game developer</h4>
           <img
             className="about-me-right_progress-bar"
-            src="./assets/progress-bar-1.png"
+            src="Portafolio-Gregoire-Careme/assets/progress-bar-1.png"
             alt="Progress Bar"
           />
           <h4 className="about-me-right_jobs">Sound Engineer</h4>
           <img
             className="about-me-right_progress-bar"
-            src="./assets/progress-bar-4.png"
+            src="Portafolio-Gregoire-Careme/assets/progress-bar-4.png"
             alt="Progress Bar"
           />
         </div>
@@ -186,13 +186,13 @@ const App = () => {
               <a href="http://app.centrl.studio">
                 <div className="mockup-wrapper">
                   <img
-                    src="/portafolio-gregg/assets/projects/mockup.png"
+                    src="/Portafolio-Gregoire-Careme/assets/projects/mockup.png"
                     alt="Mockup"
                     className="mockup-img"
                   />
 
                   <video
-                    src="/portafolio-gregg/assets/projects/centrl.mov"
+                    src="/Portafolio-Gregoire-Careme/assets/projects/centrl.mov"
                     autoPlay
                     loop
                     muted
@@ -222,13 +222,13 @@ const App = () => {
               <a href="http://app.centrl.studio">
                 <div className="mockup-wrapper">
                   <img
-                    src="/portafolio-gregg/assets/projects/mockup.png"
+                    src="/Portafolio-Gregoire-Careme/assets/projects/mockup.png"
                     alt="Mockup"
                     className="mockup-img"
                   />
 
                   <video
-                    src="/portafolio-gregg/assets/projects/artiom.mov"
+                    src="/Portafolio-Gregoire-Careme/assets/projects/artiom.mov"
                     autoPlay
                     loop
                     muted
@@ -261,7 +261,7 @@ const App = () => {
               <a href="https://d3mmom5lrew750.cloudfront.net/">
                 <div className="mockup-wrapper">
                   <img
-                    src="/portafolio-gregg/assets/projects/mockup.png"
+                    src="/Portafolio-Gregoire-Careme/assets/projects/mockup.png"
                     alt="Mockup"
                     className="mockup-img"
                   />
@@ -292,7 +292,7 @@ const App = () => {
               <a href="https://greggcarem.github.io/Hotel-Miranda/">
                 <div className="mockup-wrapper">
                   <img
-                    src="/portafolio-gregg/assets/projects/mockup.png"
+                    src="/Portafolio-Gregoire-Careme/assets/projects/mockup.png"
                     alt="Mockup"
                     className="mockup-img"
                   />
@@ -322,7 +322,7 @@ const App = () => {
               <a href="https://d2z2habo6fctjo.cloudfront.net/">
                 <div className="mockup-wrapper">
                   <img
-                    src="/portafolio-gregg/assets/projects/mockup.png"
+                    src="/Portafolio-Gregoire-Careme/assets/projects/mockup.png"
                     alt="Mockup"
                     className="mockup-img"
                   />
@@ -354,7 +354,7 @@ const App = () => {
               <a href="https://greggcarem.github.io/OxygenShop/">
                 <div className="mockup-wrapper">
                   <img
-                    src="/portafolio-gregg/assets/projects/mockup.png"
+                    src="/Portafolio-Gregoire-Careme/assets/projects/mockup.png"
                     alt="Mockup"
                     className="mockup-img"
                   />
@@ -385,7 +385,7 @@ const App = () => {
               <a href="https://greggcarem.github.io/Periodic-Table-/">
                 <div className="mockup-wrapper">
                   <img
-                    src="/portafolio-gregg/assets/projects/mockup.png"
+                    src="/Portafolio-Gregoire-Careme/assets/projects/mockup.png"
                     alt="Mockup"
                     className="mockup-img"
                   />
