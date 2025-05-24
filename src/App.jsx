@@ -86,25 +86,25 @@ const App = () => {
           <h4 className="about-me-right_jobs">Web Developer</h4>
           <img
             className="about-me-right_progress-bar"
-            src="Portafolio-Gregoire-Careme/assets/progress-bar-3.png"
+            src="/Portafolio-Gregoire-Careme/assets/progress-bar-3.png"
             alt="Progress Bar"
           />
           <h4 className="about-me-right_jobs">Website Optimization</h4>
           <img
             className="about-me-right_progress-bar"
-            src="Portafolio-Gregoire-Careme/assets/progress-bar-2.png"
+            src="/Portafolio-Gregoire-Careme/assets/progress-bar-2.png"
             alt="Progress Bar"
           />
           <h4 className="about-me-right_jobs">Game developer</h4>
           <img
             className="about-me-right_progress-bar"
-            src="Portafolio-Gregoire-Careme/assets/progress-bar-1.png"
+            src="/Portafolio-Gregoire-Careme/assets/progress-bar-1.png"
             alt="Progress Bar"
           />
           <h4 className="about-me-right_jobs">Sound Engineer</h4>
           <img
             className="about-me-right_progress-bar"
-            src="Portafolio-Gregoire-Careme/assets/progress-bar-4.png"
+            src="/Portafolio-Gregoire-Careme/assets/progress-bar-4.png"
             alt="Progress Bar"
           />
         </div>
